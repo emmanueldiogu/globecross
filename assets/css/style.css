@@ -399,7 +399,7 @@ html,body{
 	z-index:1;
 }
 .single-slide-item.slide-1:before,.single-slide-item.slide-2:before{
-	background:rgba(90, 86, 86, 0.6);
+	background:rgba(37, 35, 35, 0.6);
 	position:absolute;
 	left:0;
 	top:0;
